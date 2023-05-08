@@ -4,5 +4,5 @@
   Java JDK 17  
 - GUI lib  
   Java FX  
-- Git lib
+- Git lib  
   JGit
